@@ -1,5 +1,7 @@
 # G-raphs
 
+To view the notebook, visit the following link: https://lab-rasool.github.io/g-raphs/
+
 ## Manual Installation
 
 1. Clone the repository to your local machine using `git clone` or download the zip file.
